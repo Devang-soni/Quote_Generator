@@ -1,6 +1,6 @@
 ### Quote_Generator
 
-Quote Generator is a website that generates random quote for your veryday motivation
+Quote Generator is a website that generates random quote for your everyday motivation
 
 ### Links
 
