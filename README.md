@@ -4,5 +4,5 @@ Quote Generator is a website that generates random quote for your everyday motiv
 
 ### Links
 
-- Live Site: [Quote_Generator]  (https://devang-soni.github.io/Quote_Generator/)
-- Code: [Github]  (https://github.com/Devang-soni/Quote_Generator)
+- Live Site:  [Quote_Generator](https://devang-soni.github.io/Quote_Generator/)
+- Code:  [Github](https://github.com/Devang-soni/Quote_Generator)
